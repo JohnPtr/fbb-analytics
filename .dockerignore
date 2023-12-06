@@ -1,0 +1,14 @@
+.pytest_cache
+**/__pycache__
+*.egg-info
+.pytest_cache
+venv
+env
+.idea
+.git
+.gitignore
+.DS_STORE
+.DS_Store
+.tox
+dist
+build

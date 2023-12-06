@@ -1,0 +1,10 @@
+version: "3.7"
+
+services:
+  return_rates_data:
+    build:
+      context: .
+    stdin_open: true
+    tty: true
+    env_file:
+      - .env
